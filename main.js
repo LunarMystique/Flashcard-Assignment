@@ -27,7 +27,7 @@ const flashcardsData = [
 const cardContainer = document.getElementById('card-container');
 const startButton = document.getElementById('start-button');
 const resetButton = document.getElementById('reset-button');
-const doneButton = document.getElementById('done-button');
+const doneButton = doument.getElementById('done-button');
 
 
 const handleStart = () => {
